@@ -1,0 +1,14 @@
+.signup-container-image{
+    width: 75%;
+    margin: auto;
+}
+
+.signup-container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.form-container{
+    background-color: antiquewhite;
+}

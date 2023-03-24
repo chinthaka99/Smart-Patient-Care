@@ -9,7 +9,7 @@ export default function LoginForm() {
             <div className='login-background-box'>
                 <div className='link-signup'>
                     <p>Don't have and Account?</p>
-                    <button className='sign-up-button'>SIGN UP</button>
+                    <button className='sign-up-button-1'>SIGN UP</button>
                 </div>
                 <div className='login-heading'>
                     <span>Welcome to InteliTrend</span>

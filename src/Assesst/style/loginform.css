@@ -1,5 +1,5 @@
 .login-container{
-    background-image: url('../img/415.jpg');
+    background-image: url('../img/login-form-image.jpg');
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center;
@@ -89,7 +89,7 @@
     color: #464444;
 }
 
-.sign-up-button{
+.sign-up-button-1{
     background: #F2AF3E;
     width: 128px;
     height: 38px;
